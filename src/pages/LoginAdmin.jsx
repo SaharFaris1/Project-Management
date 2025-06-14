@@ -99,12 +99,8 @@ function LoginAdmin() {
                     </button>
 
 
-                    <p className="mt-4 text-sm text-gray-600 text-center">
-                        Don't have an account?{" "}
-                        <Link to="/registerAdmin" className="text-orange-500 hover:underline">
-                            Register
-                        </Link>
-                    </p>
+                   
+                   
                 </form>
             </div>
         </div>
